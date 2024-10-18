@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/EjemploApi6to7ma.props" />
+</Project>

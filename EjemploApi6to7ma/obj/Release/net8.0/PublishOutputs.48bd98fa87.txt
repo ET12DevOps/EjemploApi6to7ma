@@ -1,0 +1,12 @@
+/home/jonathan/Desktop/clase/tp15/EjemploApi6to7ma/Publish/EjemploApi6to7ma
+/home/jonathan/Desktop/clase/tp15/EjemploApi6to7ma/Publish/appsettings.Development.json
+/home/jonathan/Desktop/clase/tp15/EjemploApi6to7ma/Publish/appsettings.json
+/home/jonathan/Desktop/clase/tp15/EjemploApi6to7ma/Publish/EjemploApi6to7ma.dll
+/home/jonathan/Desktop/clase/tp15/EjemploApi6to7ma/Publish/EjemploApi6to7ma.deps.json
+/home/jonathan/Desktop/clase/tp15/EjemploApi6to7ma/Publish/EjemploApi6to7ma.runtimeconfig.json
+/home/jonathan/Desktop/clase/tp15/EjemploApi6to7ma/Publish/EjemploApi6to7ma.pdb
+/home/jonathan/Desktop/clase/tp15/EjemploApi6to7ma/Publish/Microsoft.AspNetCore.OpenApi.dll
+/home/jonathan/Desktop/clase/tp15/EjemploApi6to7ma/Publish/Microsoft.OpenApi.dll
+/home/jonathan/Desktop/clase/tp15/EjemploApi6to7ma/Publish/Swashbuckle.AspNetCore.Swagger.dll
+/home/jonathan/Desktop/clase/tp15/EjemploApi6to7ma/Publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/jonathan/Desktop/clase/tp15/EjemploApi6to7ma/Publish/Swashbuckle.AspNetCore.SwaggerUI.dll
