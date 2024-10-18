@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../buildMultiTargeting/EjemploApi6to7ma.props" />
-</Project>
